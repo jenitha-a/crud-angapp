@@ -1,0 +1,6 @@
+{
+  "/api/*": {
+    "target": "http://localhost/user-portal/users.json/",
+    "secure": false
+  }
+}
